@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="OptionsArray">
+        <item>Home</item>
+        <item>Get Data</item>
+        <item>Date Search</item>
+
+    </string-array>
+</resources>

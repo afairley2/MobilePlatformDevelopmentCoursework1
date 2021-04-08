@@ -1,0 +1,13 @@
+org/me/gcu/equakestartercode/MainActivity.java
+ org.me.gcu.equakestartercode.MainActivity
+ org.me.gcu.equakestartercode.MainActivity$1
+ org.me.gcu.equakestartercode.MainActivity$2
+ org.me.gcu.equakestartercode.MainActivity$3
+ org.me.gcu.equakestartercode.MainActivity$AsyncDownloader
+org/me/gcu/equakestartercode/DownloadData.java
+ org.me.gcu.equakestartercode.DownloadData
+ org.me.gcu.equakestartercode.DownloadData$1
+org/me/gcu/equakestartercode/Item.java
+ org.me.gcu.equakestartercode.Item
+org/me/gcu/equakestartercode/BuildConfig.java
+ org.me.gcu.equakestartercode.BuildConfig
